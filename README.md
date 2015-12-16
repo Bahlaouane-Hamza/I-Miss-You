@@ -9,7 +9,7 @@ jQuery plugin to change the title & favicon of the page when the user is not vie
 Screenshot
 -------------
 
-![enter image description here](https://raw.githubusercontent.com/Bahlaouane-Hamza/I-Miss-You/master/screenshot.jpg)
+![enter image description here](https://raw.githubusercontent.com/Bahlaouane-Hamza/I-Miss-You/master/screenshot.jpg?v=2)
 
 
 #### Usage
