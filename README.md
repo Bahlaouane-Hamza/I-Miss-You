@@ -1,7 +1,7 @@
 :heart: I Miss You
 ===================
 
-jQuery plugin to change the title, favicon when the user is not viewing your website.
+jQuery plugin to change the title & favicon of the page when the user is not viewing your website.
 
 ----------
 
