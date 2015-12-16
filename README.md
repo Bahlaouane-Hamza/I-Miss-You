@@ -15,7 +15,6 @@ Screenshot
 #### Usage
 
 ```html
-// using on
 <link rel="shortcut icon" href="favicon.ico"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="jquery.iMissYou.js"></script>
@@ -35,4 +34,4 @@ Screenshot
 > **Note:**
 
 
-> - You include a default favicon in your webpage
+> - You must include a default favicon in your webpage
